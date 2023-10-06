@@ -19,6 +19,7 @@ In this exercise, you will be counting from 1 - 100. For each odd number, you wi
 2. Inside the loop body, write an `if/else` selection statement that checks whether a number is odd
 3. If the number is odd, then print the number to the console, otherwise do nothing and continue to the next number
 
+//done
 ## Exercise 2: FIZZBUZZ
 
 FIZZBUZZ is a very common coding interview problem. Below are the instructions to solving the problem:
@@ -31,9 +32,13 @@ FIZZBUZZ is a very common coding interview problem. Below are the instructions t
 
 Ex: `15` would print `'FIZZBUZZ'`, `33` would print `'FIZZ'`, and `35` would print `'BUZZ'`
 
+//done
+
 ## Exercise 3: Repeat with While and Do/While
 
 For exercise 3, repeat both exercise 1 and 2 as `while` and `do/while` loop solutions.
+
+//done
 
 ## Exercise 4: Find Value
 
@@ -49,6 +54,8 @@ let n = Math.round(Math.random() * (500 - 100) + 100); // creates a random numbe
 2. Create a `for` loop that iterates from 0 to n
 3. If your current iteration is equal to `value`, then print "Found value!", and `break` out of the loop
 4. If you do not ever find the value and break out of the loop, then after the loop is finished, print "Did not find value"
+
+//done
 
 ## Exercise 5: Customized FIZZBUZZ
 
